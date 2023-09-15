@@ -4,18 +4,11 @@ Hi, My name is Zaarif Ahnaf Ali. I am 5 years old. I go to Paint Branch Elementa
 
 ## image   
 
-- 
-
-    <img src="activity/08-28-2023/a_one.png" 
-    alt="UI" align="center" width=100% height="auto"/>
-
-#### date   
-- 
-    <img src="https://github.com/Yousuf28/zaarif/blob/main/activity/08-28-2023/a_one.png" 
-    alt="UI" align="center" width=100% height="auto"/>
+### first day activity  
 
 ![image](activity/08-28-2023/a_one.png)
+  
+![image](activity/08-28-2023/b_one.png)
+  
+![image](activity/08-28-2023/c_one.png)
  
-hello again   
-
-![image](https://github.com/Yousuf28/zaarif/blob/main/activity/08-28-2023/a_one.png)
