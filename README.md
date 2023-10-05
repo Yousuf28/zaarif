@@ -1,4 +1,6 @@
-# Zaarif
+
+![Zaarif](zaarif_profile.png)
+
 
 Hi, My name is Zaarif Ahnaf Ali. I am 5 years old. I go to Paint Branch Elementary School.  
 
