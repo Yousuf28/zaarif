@@ -12,7 +12,7 @@ for i in ${array[@]};do
          echo \!\[$t_date\]\($t_date/$i\) >> $t_date.md
          done
 
-echo \!\[$t_date\]\($t_date.md\) >> class_activity.md
+echo \[$t_date\]\($t_date.md\) >> class_activity.md
 
 
 git checkout website
