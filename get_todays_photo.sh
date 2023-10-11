@@ -12,6 +12,7 @@ for i in ${array[@]};do
          echo \!\[$t_date\]\($t_date/$i\) >> $t_date.md
          done
 
+echo "" >> class_activity.md
 echo \[$t_date\]\($t_date.md\) >> class_activity.md
 
 
