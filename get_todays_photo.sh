@@ -1,6 +1,6 @@
 #!/usr/local/bin/bash
-t_date=$(date +'%m-%d-%Y')
-# t_date=12-06-2023
+# t_date=$(date +'%m-%d-%Y')
+t_date=12-09-2023
 mkdir -p $t_date
 touch $t_date.md
 # echo "## $t_date" >> README.md
