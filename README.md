@@ -2,7 +2,7 @@
 ![Zaarif](zaarif_profile.png)
 
 
-Hi, My name is Zaarif Ahnaf Ali. I am 5 years old. I go to Paint Branch Elementary School.  
+Hi, My name is Zaarif Ahnaf Ali. I am 6 years old. I go to Thomas G. Pullen School.  
 
 [Class Activity](class_activity.md)
 
