@@ -7,3 +7,6 @@ Hi, My name is Zaarif Ahnaf Ali. I am 5 years old. I go to Paint Branch Elementa
 [Class Activity](class_activity.md)
 
 [My Books Collection](books_collection.md)
+
+[addition challenge](https://yousuf28.github.io/addition_challenge/)
+
